@@ -24,11 +24,12 @@
       "type": "image/png"
     },
     {
-      "src": "/favicon.ico",
+      "src": "/fon.ico",
       "sizes": "any",
       "type": "image/x-icon"
     }
   ]
 }
+
 
 
